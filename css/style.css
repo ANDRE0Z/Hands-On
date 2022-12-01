@@ -1,0 +1,9 @@
+/*Reset for page*/
+* {
+  margin:0 ;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  list-style: none;
+}
+
